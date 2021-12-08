@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Detoffol</h1>
 
 - 🔭 I’m currently working on C# programming
-- 🌱 I’m currently learning C#, Unity Tests, Angular, TypeScript
+- 🌱 I’m currently learning DDD, TDD, .Net Core, Angular, TypeScript
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-de-toffol-lemos-65504819b/)
 
 <h3 align="left">Languages and Tools:</h3>
