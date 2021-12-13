@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Lucas Detoffol</h1>
+<h1 align="center">Hi, I'm Lucas Detoffol</h1>
 
 - 🔭 I’m currently working on C# programming
 - 🌱 I’m currently learning DDD, TDD, .Net Core, Angular, TypeScript
