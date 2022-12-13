@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning C#, .Net Core and a little bit of Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-de-toffol-lemos-65504819b/)
 
-<div align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdetoffollemos&layout=compact)](https://github.com/lucasdetoffollemos/github-readme-stats)
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
