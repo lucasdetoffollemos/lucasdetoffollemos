@@ -6,12 +6,8 @@
 - 🌱 I’m currently learning C#, .Net Core and a little bit of Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-de-toffol-lemos-65504819b/)
 
-
-
 <div align="center">
-  <a href="https://github.com/lucasdetoffollemos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdetoffollemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdetoffollemos&layout=compact&langs_count=7&theme=dracula"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdetoffollemos&layout=compact)](https://github.com/lucasdetoffollemos/github-readme-stats)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
