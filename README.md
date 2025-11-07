@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, I'm Lucas Detoffol</h1>
 
-- 🔭 I’m currently working on legacy code with C#, .net framework and .net core 
-- 🌱 I’m currently learning C#, .Net Core
+- 🔭 I’m currently working with Backend Technologies like .Net Core, Asp Net and C#, building Apis and Services, and for Frontend, i´m using Angular and TypeScript.
+- 🌱 I’m currently learning C#, .Net Core, AI, and Devops (Docker, CI/CD)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-de-toffol-lemos-65504819b/)
 
 
