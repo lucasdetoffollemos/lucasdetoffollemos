@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with Backend Technologies like .Net Core, Asp Net and C#, building Apis and Services and making unit and integration tests, and for Frontend, i´m using Angular and TypeScript.
 - 🌱 I’m currently learning C#, .Net Core, AI, and Devops (Docker, CI/CD)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-de-toffol-lemos-65504819b/)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/lucas-detoffol-lemos)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdetoffollemos&layout=compact)](https://github.com/lucasdetoffollemos/github-readme-stats)
